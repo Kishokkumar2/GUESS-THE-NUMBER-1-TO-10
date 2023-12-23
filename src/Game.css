@@ -1,0 +1,40 @@
+body{
+  background-image: url(E:\react\pro\pro\images\pexels-madison-inouye-1831234.jpg);
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 10%;
+  
+  
+  
+  
+  
+}
+h2{
+  font-family: cursive;
+}
+.a{
+  color: rgb(244, 16, 42);
+  font-size: 60px;
+}
+input{
+  padding: 15px;
+  padding-right: 300px;
+  margin-left: 100px;
+  margin-bottom: 4px;
+  border: solid;
+  border-radius: 20px;
+  box-shadow: inset;
+  background-color:silver;
+  font: bold;
+  font-size: medium;
+  color: black;
+  border-color: black;
+  
+
+
+}
+input:hover{
+  background-color:lightgreen;
+
+}
